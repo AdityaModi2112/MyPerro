@@ -1,0 +1,25 @@
+.header2{
+    position: relative;
+    height:6vh;
+    background-color: #C3C3C3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.leftheader2{
+    width: 10vw;
+}
+.rightheader2{
+    width: 40vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+}
+.header_option select{
+    border: 0;
+    background-color: #C3C3C3;
+    font-size: 2vh;
+    font-weight: 700;
+}

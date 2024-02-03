@@ -1,0 +1,39 @@
+.headere{
+    position: sticky;
+    top:0;
+    height:6vh;
+    background-color:#EEEEEEEE;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color:black;
+    z-index: 1;
+}
+.leftheader{
+    display: flex;
+    width: 6vw;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.8vh;
+    font-weight: 500;
+}
+.rightheader{
+    display: flex;
+    flex-direction: row;
+    width: 30vw;
+    justify-content: space-evenly;
+    font-size: 2.8vh;
+    font-weight: 500;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.options button{
+    border:0;
+    background-color:#EEEEEEEE;
+    font-size: 2.8vh;
+    font-weight: 500;
+    cursor: pointer;
+}

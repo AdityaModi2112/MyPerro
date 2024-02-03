@@ -1,0 +1,31 @@
+.rating_outside{
+    margin-left: 5vw;
+    background-color:#D4D2D2;
+    height: 30vh;
+    width: 20vw;
+    border: 10px solid #727376 ;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 150px;
+}
+.first_rating{
+    width: 30vw;
+    display: flex;
+    flex-direction: row;
+}
+.rating_outside img{
+    margin-left: 7vw;
+    height: 10vh;
+    width: 5vw;
+    margin-top: 5vh;
+    margin-right: 2vw;
+}
+.a{
+    margin-top: 10vh;
+}
+.name_review{
+    margin-top: 2vh;
+    margin-left: -11vw;
+}
